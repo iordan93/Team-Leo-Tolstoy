@@ -1,0 +1,168 @@
+Софтуерни системи
+[Компютърен софтуер]
+Въпросите от този раздел по конспект обхващат следните области:
+	- Компютърни програми (софтуер)
+		- Същност, функции, класифициране
+		- Създаване
+		- Начини на използване (инсталиране, стартиране, деинсталиране)
+		
+Кое е вярното твърдение? Адуер (adware) е:
+	a) Софтуер, който атакува уеб сървъри
+	b) Софтуер, който може да бъде използван безплатно известно време, но изисква плащане след това
+	c) Софтуер, който краде информация от даден компютър, без знанието на потребителя му
+	+d) Софтуер, който показва или изтегля нежелани реклами
+	e) Софтуер, направен да причини физическа вреда на компютърна система
+	
+Допълнителна информация:
+Адуер е софутер, който показва реклами с цел да генерира печалба за създателя си. Има два вида адуер:
+	- Нежелани реклами, обикновено изскачащи прозорци в уебстраници (вид malware)
+	- Софтуер, който се издържа от реклами (софтуер, който разчита на парите, събрани от реклами, за да се разпространява безплатно, като Skype)
+	
+Предпазване и премахване
+	- Четете инсталационните съветници внимателно. В много от тях има отметки за инсталиране на адуер, които трябва да не са отметнати
+	- Приложенията за блокиране на реклами в браузърите премахват почти всички нежелани реклами, особено popup-ите
+	- Всички антивирусни системи разпознават адуера като "потенциално нежелано приложение" и предупреждават, когато открият такъв
+	- Windows Account Control (от Windows 7) не позволява на софтуер да се инсталира без изричното съгласие на потребителя
+
+Източници:
+Adware (Wikipedia) [http://en.wikipedia.org/wiki/Adware]
+Difference between spyware, adware and malware[http://answers.yahoo.com/question/index?qid=20080521200647AAqUn0M]
+
+Software systems
+[Computer software]
+The questions from this section of the syllabus cover the following areas:
+	- Computer programs (software)
+		- Essence, functions, classification
+		- Creation
+		- Ways to use (installing, starting, deinstalling)
+
+Which of the following is true? Adware is...
+	a) Software which performs attacks to Web servers
+	b) Software that can be used for free for a certain amount of time but requires payment after that
+	c) Software that steals information from one's computer without their knowledge
+	+d) Software that shows or downloads unwanted ads
+	e) Software made to cause physical damage to a computer system
+		
+More information:
+Adware is software which shows ads in order to generate income for its creator. There are two types of adware:
+	- Unwanted ads, usually in the form of popups (a form of malware)
+	- Ad-supported software (software which relies on money gained through advertising to keep it free, such as Skype)
+
+Prevention and removal
+	- Read installation wizards carefully. Many applications contain checkboxes for installing adware which you should uncheck
+	- Ad blockers for browsers remove nearly all of the unwanted ads, especially popups
+	- All antivirus systems recognize adware as 'potentially unwanted software' and will warn you if they find some
+
+Resources:
+Adware (Wikipedia) [http://en.wikipedia.org/wiki/Adware]
+Difference between spyware, adware and malware[http://answers.yahoo.com/question/index?qid=20080521200647AAqUn0M]
+
+==============================
+
+Работа с компютърни системи и програми
+[Инсталиране, използване, поддръжка...]
+Въпросите от този раздел по конспект обхващат следните области:
+	- Правила за работа с компютърни системи и програми
+		- Пускане и спиране
+		- Диагностика
+		- Откриване на проблеми
+		- Поддържане
+		- Тестване
+		
+Какво прави CAD софтуерът?
+	a) Управлява човешките ресурси в дадена компания
+	+b) Симулира поведението на модел, за да улесни инженерната работа
+	c) Управлява времето и ресурсите на проекти, помага на екипите да работят съвместно
+	d) Редактира графични изображения
+	e) Настройва и управлява компютърна мрежа в рамките на една фирма
+	
+Допълнителна информация:
+CAD (Computer-Assisted Design) софтуерът се използва от инженери.
+	- Помага при създаването, модификацията, анализа и оптимизацията на дизайна
+	- Когато цената на истински модел е твърде висока, добра отправна точка е да се създадат няколко компютърни модела
+	- Увеличава производителността, силно намалява цената на проекта
+	- Помага за намирането на трудни за откриване грешки още в ранните етапи на проекта
+	
+Източници:
+Computer-aided design (Wikipedia) [http://en.wikipedia.org/wiki/Computer-aided_design]
+CAD (concise definition) [http://www.webopedia.com/TERM/C/CAD.html]
+CAD versus modelling software [http://blenderartists.org/forum/showthread.php?118275-CAD-vs-modeling-software-%28explaining-the-differences%29]
+		
+Working with computer systems and programs
+[Installing, ussage, maintenance...]
+The questions from this section of the syllabus cover the following areas:
+	- Rules for working with comuter systems and programs
+		- Starting and stopping
+		- Diagnostics
+		- Debugging
+		- Maintenance
+		- Testing
+		
+What does CAD software do?
+	a) Manages the human resources in a company
+	+b) Simulates the behavour of a model to assist engineering
+	c) Manages time and project resources, helps teams work together
+	d) Edits graphics
+	e) Sets up and manages a workplace computer network
+	
+More information:
+CAD (Computer-Assisted Design) software is a kind of software used by engineers.
+	- Assists the creation, modification, analysis and optimization of design
+	- When making a real-life model is too expensive, a good starting point is to create various computer models
+	- Increases productivity, dramatically reduces the cost of the project
+	- Helps find subtle errors in the early stages of the project
+	
+Resources:
+Computer-aided design (Wikipedia) [http://en.wikipedia.org/wiki/Computer-aided_design]
+CAD (concise definition) [http://www.webopedia.com/TERM/C/CAD.html]
+CAD versus modelling software [http://blenderartists.org/forum/showthread.php?118275-CAD-vs-modeling-software-%28explaining-the-differences%29]
+		
+==============================
+		
+Операционни системи
+[Архитектура, процеси, потребители, потребителски интерфейс, файлови системи]
+Въпросите от този раздел по конспект обхващат следните области:
+	- Операционни системи – понятия, основни функции и задачи, видове. Потребителски интерфейс – понятия, видове. Графичен интерфейс – понятия, основни обекти, основни операции, организация, настройки. Файл – понятия, характеристики. Файлова система – понятия, видове, логическа и физическа организация, основни обекти и действия с тях. Потребители, процеси, многозадачност.
+	
+Коя файлова система не позволява създаването на символични линкове (symlinks)?
+	a)	Ext3
+	b) Ext4
+	+c) FAT32
+	d) NTFS
+	e) ReiserFS
+	
+Символични линкове (symbolic links, symlinks)
+	- Характерни за UNIX-подобните операционни системи
+	- Представляват референция към място от файловата система
+	- Ранна имплементация на Windows - shortcuts
+		- Основна разлика - shortcut-ите в Windows се държат като нормални файлове, докато символичните линкове са само референции към файлове
+
+More information:
+Symbolic link (Wikipedia) [http://en.wikipedia.org/wiki/Symbolic_link]
+Comparison of file systems (Wikipedia) [http://en.wikipedia.org/wiki/Comparison_of_file_systems]
+Complete guide to symbolic links [http://www.howtogeek.com/howto/16226/complete-guide-to-symbolic-links-symlinks-on-windows-or-linux/]
+How to use symlinks in Windows [http://lifehacker.com/5496652/how-to-use-symlinks-in-windows]
+	
+Operating systems
+[Architecture, processes, users, user interface, file systems]
+The questions from this section of the syllabus cover the following areas:
+	- Operating systems - terms, basic functionalities and tasks, types. User interface - terms, types. Graphical user interface (GUI) - terms, basic objects, basic operations, organization, settings. File - terms, characteristics. File system - terms, types, logical and physical structure, basic objects and operations with them. Users, processes, multitasking.
+	
+Which file system does not allow creating symbolic links (symlinks)?
+	a)	Ext3
+	b) Ext4
+	+c) FAT32
+	d) NTFS
+	e) ReiserFS
+	
+Symbolic links (symlinks)
+	- Typical of UNIX-like operating systems
+	- Pointers to a place in the file system
+	- Early Windows implementation - shortcuts
+		- Major difference - shortcuts in Windows look like any normal file whereas symlinks are just pointers
+
+More information:
+Symbolic link (Wikipedia) [http://en.wikipedia.org/wiki/Symbolic_link]
+Comparison of file systems (Wikipedia) [http://en.wikipedia.org/wiki/Comparison_of_file_systems]
+Complete guide to symbolic links [http://www.howtogeek.com/howto/16226/complete-guide-to-symbolic-links-symlinks-on-windows-or-linux/]
+How to use symlinks in Windows [http://lifehacker.com/5496652/how-to-use-symlinks-in-windows]
